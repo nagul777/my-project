@@ -9,7 +9,7 @@ function App() {
           <h1 className='text-[28px] font-semibold font-roboto'>Contact Us</h1>
           <form className='flex flex-col'>
 
-             <div className='flex felx-col space-x-4 pt-6'>
+             <div className='flex space-x-4 pt-6'>
                <div className='flex flex-col'>
                 <label htmlFor="First Name" className='text-[15px] text-[#464646] pb-[7px]'>First Name<sapn className="pl-[8px] text-green-500">*</sapn></label>
                 <input type="text" className='border border-gray-300 p-[10px] w-72 rounded-md'/>
