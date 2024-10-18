@@ -31,17 +31,10 @@ function App() {
             <label htmlFor="email" className='text-[15px] text-[#464646] pb-[7px] pt-[20px]'>Query Type<sapn className="pl-[8px] text-green-500">*</sapn></label>
              <div className='flex space-x-3 pt-[6px]'>
                <div className='border border-gray-300 p-[10px_10px_10px_25px] w-72 rounded-md'>
-<<<<<<< HEAD
-                <input type="radio" name="radio"/><span className='pl-[14px] text-[#464646]'>General Enquiry</span>
-               </div> 
-              <div className='border border-gray-300 p-[10px_10px_10px_25px] w-72 rounded-md'>
-                <input type="radio" name="radios"/><span className='pl-[14px] text-[#464646]'>Support Requrest</span>
-=======
                 <input type="radio" name='radio'/><span className='pl-[14px] text-[#464646]'>General Enquiry</span>
                </div> 
               <div className='border border-gray-300 p-[10px_10px_10px_25px] w-72 rounded-md'>
                 <input type="radio" name='radio'/><span className='pl-[14px] text-[#464646]'>Support Requrest</span>
->>>>>>> d7e5d40 (commit)
                </div>
             </div>
 
